@@ -10,11 +10,16 @@
                 {
                     Console.Write('*');
                 }
+                // end of inner loop
 
                 Console.WriteLine();
             }
+            // end of mid loop
 
             Console.WriteLine();
         }
+        // end of outer loop
     }
+    // end of main method
 }
+// end of class
